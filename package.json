@@ -1,0 +1,19 @@
+{
+  "name": "csit314",
+  "version": "1.0.0",
+  "description": "CSIT314 Team 30 Project Part 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozaduck/csit314.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rozaduck/csit314/issues"
+  },
+  "homepage": "https://github.com/rozaduck/csit314#readme"
+}
